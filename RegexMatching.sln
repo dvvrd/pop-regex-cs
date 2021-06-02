@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{09A9DED6-270C-4E16-BA17-549D718FE8A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexMatching", "RegexMatching\RegexMatching.csproj", "{B554FD63-23D8-4996-B57E-B8BAD2FECBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A9DED6-270C-4E16-BA17-549D718FE8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A9DED6-270C-4E16-BA17-549D718FE8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A9DED6-270C-4E16-BA17-549D718FE8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A9DED6-270C-4E16-BA17-549D718FE8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B554FD63-23D8-4996-B57E-B8BAD2FECBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B554FD63-23D8-4996-B57E-B8BAD2FECBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B554FD63-23D8-4996-B57E-B8BAD2FECBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B554FD63-23D8-4996-B57E-B8BAD2FECBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
